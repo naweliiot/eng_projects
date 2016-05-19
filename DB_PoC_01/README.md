@@ -1,4 +1,4 @@
-# Re-flashing the Pro Trinkets
+# How to Re-flash the Bootloader on the Pro Trinket
 
 **Important!**  
 **The Pro Trinkets we're using are 3.3V, so remember to set the series resistors and use the right Arduino sketch to flash the bootloaders.**
